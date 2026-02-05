@@ -84,10 +84,14 @@
 ### ⚙️ &nbsp;GitHub Analisis
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bairon-vasquez&show_icons=true&theme=midnight-purple"/>&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bairon-vasquez&layout=compact&theme=midnight-purple"/>&nbsp;
+  <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bairon-vasquez&theme=midnight_purple" />
+  <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bairon-vasquez&theme=midnight_purple" />
+  <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bairon-vasquez&theme=midnight_purple" />
+  <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bairon-vasquez&theme=midnight_purple" />
+  <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bairon-vasquez&theme=midnight_purple" />
+  
+  
 </p>
-
 
 ### 🐍 &nbsp;Así es como se mueven los Commits...
 <div align="center">
