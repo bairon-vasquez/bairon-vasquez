@@ -1,11 +1,9 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hola mucho gusto, bienvenidos</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hola mucho gusto, bienvenido</h2>
 ![Bairon Vasquez Banner](./assets/Bairon_Banner_V1.png)
 
 ### 👨🏻‍💻 &nbsp;Sobre mi
-👨‍💻 &nbsp;Actualmente estoy planificando un proyecto para un local y desarrollando su base de datos.\
 💡 &nbsp;Me apasiona explorar nuevas tecnologías y encontrar soluciones innovadoras a problemas de software.\
 🎓 &nbsp;Soy estudiante de Ingeniería de Sistemas en la Universidad de Caldas.\
-🌱 &nbsp;Estoy profundizando en el modelado y funcionamiento de bases de datos.\
 ✍️ &nbsp;En mi tiempo libre, me gusta perfeccionar mis conocimientos en lenguajes y explorar nuevos sistemas operativos Linux🐧.\
 ✉️ &nbsp;Puedes contactarme por correo electrónico en baironvasquez1604@gmail.com. Intentaré responderte lo antes posible.\
 📄 &nbsp;Si deseas conocer más sobre mí, puedes revisar mi [CV](hojadevida). 
@@ -21,7 +19,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 
